@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Erik 👋
 
-<!--
-**FiskyUDIS/FiskyUDIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer from Slovakia with a eye for aesthetics —
+I care as much about how something looks and feels as how it works.
 
-Here are some ideas to get you started:
+## Currently
+- Learning backend development
+- Building small projects on the side
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- **Frontend** — Next.js, Tailwind CSS, GSAP
+- **Backend** — Node.js, JavaScript, databases
+- **Creative** — DaVinci Resolve, Photoshop
+
+## Reach me
+- 📧 erik.pitorak1@gmail.com
